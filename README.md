@@ -1,4 +1,4 @@
-# Movie_revenue_prediction
+# Movie-revenue-prediction
 Trained model that uses 10 different algorithms to predict the revenue of a movie before it's release and compare their results. 
 The data is taken from [Kaggle](https://www.kaggle.com/c/tmdb-box-office-prediction/data).
 
